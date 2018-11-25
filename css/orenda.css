@@ -4044,7 +4044,7 @@ img.icon{
 }
 .section [class^=container],section [class^=container]{
     padding-top:90px;
-    padding-bottom:90px;
+    padding-bottom:110px; /*change 90 to 110 by geet*/
     position:relative
 }
 .section [class^=container].bring-to-front,section [class^=container].bring-to-front{
@@ -4058,7 +4058,7 @@ img.icon{
     margin-right:0!important
 }
 .section-heading{
-    margin-bottom:60px;
+    /* margin-bottom:60px; =================by geet======================= */
     position:relative
 }
 .section-heading h2{
@@ -4386,4 +4386,14 @@ hr[class*=bg]{
 }
 .theme-selector.selector-open .flipper{
     opacity:0
+}
+
+
+/* ==============by geet=================== */
+.text-justify{
+	text-align:justify;
+}
+.my-5 {
+    margin-bottom: 1rem!important;
+	margin-top: 2rem!important;
 }
