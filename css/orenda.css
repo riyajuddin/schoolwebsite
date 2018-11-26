@@ -242,13 +242,13 @@ main{
 }
 .navigation .btn-solid,.navigation.navbar-sticky .btn-solid{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#039be5;
+    border-color:#039be5;
 }
 .navigation .btn-solid:hover,.navigation.navbar-sticky .btn-solid:hover{
     color:#fff;
-    background-color:#5d46ea;
-    border-color:#533ae9
+   background-color:#0982bd;
+    border-color:#74d2ff;
 }
 .navigation .btn-solid.focus,.navigation .btn-solid:focus,.navigation.navbar-sticky .btn-solid.focus,.navigation.navbar-sticky .btn-solid:focus{
     -webkit-box-shadow:0 0 0 .2rem rgba(123,104,238,.5);
@@ -997,13 +997,13 @@ button:focus{
 }
 .btn-accent{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#039be5;
+    border-color:#039be5;
 }
 .btn-accent:hover{
     color:#fff;
-    background-color:#5d46ea;
-    border-color:#533ae9
+    background-color:#0982bd;
+    border-color:#74d2ff;
 }
 .btn-accent.focus,.btn-accent:focus{
     -webkit-box-shadow:0 0 0 .2rem rgba(123,104,238,.5);
@@ -1199,13 +1199,14 @@ a.btn{
     background:#66727c
 }
 .bg-3{
-    background-color:#7b68ee!important
+   background-color: #0680bc  !important;
 }
 .bg-3.edge{
     position:relative
 }
 .bg-3.edge::after{
-    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' viewBox='0 0 100 300' fill='rgb(123,104,238)' fill-opacity='1'%3E%3Cpolygon points='0,0 100,0 0,300'%3E%3C/polygon%3E%3C/svg%3E");
+   /*
+   background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' viewBox='0 0 100 300' fill='rgb(123,104,238)' fill-opacity='1'%3E%3Cpolygon points='0,0 100,0 0,300'%3E%3C/polygon%3E%3C/svg%3E");
     background-position:center center;
     background-repeat:no-repeat;
     background-size:100% 100%;
@@ -1216,7 +1217,9 @@ a.btn{
     right:0;
     width:100%;
     z-index:1;
-    bottom:-300px
+    bottom:-300px;
+	
+	*/
 }
 .bg-3.alpha-1{
     background-color:rgba(123,104,238,.1)
@@ -1367,6 +1370,7 @@ a.btn{
     position:relative
 }
 .bg-6.edge::after{
+/*
     background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' viewBox='0 0 100 300' fill='rgb(244,248,251)' fill-opacity='1'%3E%3Cpolygon points='0,0 100,0 0,300'%3E%3C/polygon%3E%3C/svg%3E");
     background-position:center center;
     background-repeat:no-repeat;
@@ -1379,6 +1383,7 @@ a.btn{
     width:100%;
     z-index:1;
     bottom:-300px
+	*/
 }
 .bg-6.alpha-1{
     background-color:rgba(244,248,251,.1)
@@ -2477,7 +2482,7 @@ blockquote:before{
     z-index:-1
 }
 .inner-overlay.gradient{
-    background-image:linear-gradient(-48deg,#9b8df2 25%,#028fff 100%)
+   background-image: linear-gradient(-48deg,#0f6895 25%,#039be5 100%);
 }
 .signup-overlay{
     position:fixed;
@@ -4087,14 +4092,16 @@ img.icon{
     align-items:center
 }
 .screenshots .swiper-container .mobile-device{
-    max-width:240px;
+    max-width:240px !important;
     position:absolute;
     left:0;
     right:0
 }
 .screenshots .swiper-container .mobile-device .screen{
     width:212px;
-    height:376px
+/*    height:376px; */
+	height:420px !important;
+	
 }
 .screenshots .swiper-container .swiper-slide{
     -webkit-transform:scale(.65);
@@ -4396,4 +4403,19 @@ hr[class*=bg]{
 .my-5 {
     margin-bottom: 1rem!important;
 	margin-top: 2rem!important;
+}
+
+.badge-custom {
+    color: #007bff;
+    background-color: #ffffff;
+}
+
+.site-footer
+{
+background: #000410;
+}
+
+.section-heading
+{
+text-align:center;
 }
