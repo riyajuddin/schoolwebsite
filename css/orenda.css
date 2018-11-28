@@ -1096,7 +1096,9 @@ a.btn{
 .bg-1.edge{
     position:relative
 }
+
 .bg-1.edge::after{
+/*
     background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' viewBox='0 0 100 300' fill='rgb(255,255,255)' fill-opacity='1'%3E%3Cpolygon points='0,0 100,0 0,300'%3E%3C/polygon%3E%3C/svg%3E");
     background-position:center center;
     background-repeat:no-repeat;
@@ -1109,7 +1111,8 @@ a.btn{
     width:100%;
     z-index:1;
     bottom:-300px
-}
+*/
+	}
 .bg-1.alpha-1{
     background-color:rgba(255,255,255,.1)
 }
@@ -3914,6 +3917,7 @@ blockquote:before{
     display:inline-block
 }
 [class*=fa-]{
+	color:#039be6;
     font-family:FontAwesome;
     font-style:normal;
     font-variant:normal;
