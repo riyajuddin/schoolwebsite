@@ -18,12 +18,12 @@ a,a:active,a:focus,a:hover{
     text-decoration:none
 }
 ::-moz-selection{
-    background:#7b68ee;
+    background:#068fd2;
     color:#41494f;
     text-shadow:none
 }
 ::selection{
-    background:#7b68ee;
+    background:#068fd2;
     color:#41494f;
     text-shadow:none
 }
@@ -91,7 +91,7 @@ main{
 .navigation .navbar-toggler .icon-bar{
     -webkit-transform:rotate(0);
     transform:rotate(0);
-    background-color:#7b68ee;
+    background-color:#068fd2;
     -webkit-transition:all .35s ease-in-out;
     transition:all .35s ease-in-out;
     display:block;
@@ -180,11 +180,11 @@ main{
 }
 @media (max-width:767.98px){
     .navigation .nav-item.active .nav-link,.navigation .nav-item:hover .nav-link{
-        background:#7b68ee
+        background:#068fd2;
     }
 }
 .navigation .nav-item .nav-link{
-    color:#7b68ee;
+    color:#068fd2;
     font-family:Roboto,"Source Sans Pro",sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     font-size:.9rem;
     font-weight:700;
@@ -213,28 +213,28 @@ main{
     transition:all .6s ease-in-out
 }
 .navigation .btn-outline,.navigation.navbar-sticky .btn-outline{
-    color:#7b68ee;
+    color:#068fd2;
     background-color:transparent;
     background-image:none;
-    border-color:#7b68ee
+    border-color:#068fd2
 }
 .navigation .btn-outline:hover,.navigation.navbar-sticky .btn-outline:hover{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#068fd2;
+    border-color:#068fd2
 }
 .navigation .btn-outline.focus,.navigation .btn-outline:focus,.navigation.navbar-sticky .btn-outline.focus,.navigation.navbar-sticky .btn-outline:focus{
     -webkit-box-shadow:0 0 0 .2rem rgba(123,104,238,.5);
     box-shadow:0 0 0 .2rem rgba(123,104,238,.5)
 }
 .navigation .btn-outline.disabled,.navigation .btn-outline:disabled,.navigation.navbar-sticky .btn-outline.disabled,.navigation.navbar-sticky .btn-outline:disabled{
-    color:#7b68ee;
+    color:#068fd2;
     background-color:transparent
 }
 .navigation .btn-outline:not(:disabled):not(.disabled).active,.navigation .btn-outline:not(:disabled):not(.disabled):active,.navigation.navbar-sticky .btn-outline:not(:disabled):not(.disabled).active,.navigation.navbar-sticky .btn-outline:not(:disabled):not(.disabled):active,.show>.navigation .btn-outline.dropdown-toggle,.show>.navigation.navbar-sticky .btn-outline.dropdown-toggle{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#068fd2;
+    border-color:#068fd2
 }
 .navigation .btn-outline:not(:disabled):not(.disabled).active:focus,.navigation .btn-outline:not(:disabled):not(.disabled):active:focus,.navigation.navbar-sticky .btn-outline:not(:disabled):not(.disabled).active:focus,.navigation.navbar-sticky .btn-outline:not(:disabled):not(.disabled):active:focus,.show>.navigation .btn-outline.dropdown-toggle:focus,.show>.navigation.navbar-sticky .btn-outline.dropdown-toggle:focus{
     -webkit-box-shadow:0 0 0 .2rem rgba(123,104,238,.5);
@@ -256,8 +256,8 @@ main{
 }
 .navigation .btn-solid.disabled,.navigation .btn-solid:disabled,.navigation.navbar-sticky .btn-solid.disabled,.navigation.navbar-sticky .btn-solid:disabled{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#068fd2;
+    border-color:#068fd2
 }
 .navigation .btn-solid:not(:disabled):not(.disabled).active,.navigation .btn-solid:not(:disabled):not(.disabled):active,.navigation.navbar-sticky .btn-solid:not(:disabled):not(.disabled).active,.navigation.navbar-sticky .btn-solid:not(:disabled):not(.disabled):active,.show>.navigation .btn-solid.dropdown-toggle,.show>.navigation.navbar-sticky .btn-solid.dropdown-toggle{
     color:#fff;
@@ -306,7 +306,7 @@ main{
         color:#646f79
     }
     .navigation.navbar-sticky .nav-item.active .nav-link,.navigation.navbar-sticky .nav-item:hover .nav-link{
-        color:#7b68ee
+        color:#068fd2;
     }
     .navigation.navbar-expanded .navbar-brand,.navigation.navbar-expanded .navbar-toggler,.navigation.navbar-expanded~main{
         -webkit-transform:translateX(0)!important;
@@ -334,28 +334,28 @@ main{
         color:#050c13
     }
     .navigation.dark-link .btn-outline{
-        color:#7b68ee;
+        color:#068fd2;
         background-color:transparent;
         background-image:none;
-        border-color:#7b68ee
+        border-color:#068fd2
     }
     .navigation.dark-link .btn-outline:hover{
         color:#fff;
-        background-color:#7b68ee;
-        border-color:#7b68ee
+        background-color:#068fd2;
+        border-color:#068fd2
     }
     .navigation.dark-link .btn-outline.focus,.navigation.dark-link .btn-outline:focus{
         -webkit-box-shadow:0 0 0 .2rem rgba(123,104,238,.5);
         box-shadow:0 0 0 .2rem rgba(123,104,238,.5)
     }
     .navigation.dark-link .btn-outline.disabled,.navigation.dark-link .btn-outline:disabled{
-        color:#7b68ee;
+        color:#068fd2;
         background-color:transparent
     }
     .navigation.dark-link .btn-outline:not(:disabled):not(.disabled).active,.navigation.dark-link .btn-outline:not(:disabled):not(.disabled):active,.show>.navigation.dark-link .btn-outline.dropdown-toggle{
         color:#fff;
-        background-color:#7b68ee;
-        border-color:#7b68ee
+        background-color:#068fd2;
+        border-color:#068fd2
     }
     .navigation.dark-link .btn-outline:not(:disabled):not(.disabled).active:focus,.navigation.dark-link .btn-outline:not(:disabled):not(.disabled):active:focus,.show>.navigation.dark-link .btn-outline.dropdown-toggle:focus{
         -webkit-box-shadow:0 0 0 .2rem rgba(123,104,238,.5);
@@ -363,8 +363,8 @@ main{
     }
     .navigation.dark-link .btn-solid{
         color:#fff;
-        background-color:#7b68ee;
-        border-color:#7b68ee
+        background-color:#068fd2;
+        border-color:#068fd2
     }
     .navigation.dark-link .btn-solid:hover{
         color:#fff;
@@ -377,8 +377,8 @@ main{
     }
     .navigation.dark-link .btn-solid.disabled,.navigation.dark-link .btn-solid:disabled{
         color:#fff;
-        background-color:#7b68ee;
-        border-color:#7b68ee
+        background-color:#068fd2;
+        border-color:#068fd2
     }
     .navigation.dark-link .btn-solid:not(:disabled):not(.disabled).active,.navigation.dark-link .btn-solid:not(:disabled):not(.disabled):active,.show>.navigation.dark-link .btn-solid.dropdown-toggle{
         color:#fff;
@@ -523,7 +523,7 @@ main{
     }
 }
 .nav-outline .nav-link{
-    border:1px solid #7b68ee;
+    border:1px solid #068fd2;
     text-align:center;
     -webkit-box-pack:center;
     -ms-flex-pack:center;
@@ -531,7 +531,7 @@ main{
     padding:4px 10px;
     letter-spacing:1px;
     margin-top:.5rem;
-    color:#7b68ee
+    color:#068fd2
 }
 @media (max-width:575.98px){
     .nav-outline .nav-link{
@@ -553,11 +553,11 @@ main{
     }
 }
 .nav-outline .nav-link.active{
-    background-color:#7b68ee;
+    background-color:#068fd2;
     color:#fff
 }
 .nav-outline .nav-link:last-child{
-    border-right:1px solid #7b68ee
+    border-right:1px solid #068fd2
 }
 .nav-outline.nav-rounded .nav-link:first-child{
     border-radius:5rem 0 0 5rem
@@ -773,8 +773,8 @@ button:focus{
 }
 .btn-3{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#068fd2;
+    border-color:#068fd2
 }
 .btn-3:hover{
     color:#fff;
@@ -787,8 +787,8 @@ button:focus{
 }
 .btn-3.disabled,.btn-3:disabled{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#068fd2;
+    border-color:#068fd2
 }
 .btn-3:not(:disabled):not(.disabled).active,.btn-3:not(:disabled):not(.disabled):active,.show>.btn-3.dropdown-toggle{
     color:#fff;
@@ -800,28 +800,28 @@ button:focus{
     box-shadow:0 0 0 .2rem rgba(123,104,238,.5)
 }
 .btn-outline-3{
-    color:#7b68ee;
+    color:#068fd2;
     background-color:transparent;
     background-image:none;
-    border-color:#7b68ee
+    border-color:#068fd2
 }
 .btn-outline-3:hover{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#068fd2;
+    border-color:#068fd2
 }
 .btn-outline-3.focus,.btn-outline-3:focus{
     -webkit-box-shadow:0 0 0 .2rem rgba(123,104,238,.5);
     box-shadow:0 0 0 .2rem rgba(123,104,238,.5)
 }
 .btn-outline-3.disabled,.btn-outline-3:disabled{
-    color:#7b68ee;
+    color:#068fd2;
     background-color:transparent
 }
 .btn-outline-3:not(:disabled):not(.disabled).active,.btn-outline-3:not(:disabled):not(.disabled):active,.show>.btn-outline-3.dropdown-toggle{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#068fd2;
+    border-color:#068fd2
 }
 .btn-outline-3:not(:disabled):not(.disabled).active:focus,.btn-outline-3:not(:disabled):not(.disabled):active:focus,.show>.btn-outline-3.dropdown-toggle:focus{
     -webkit-box-shadow:0 0 0 .2rem rgba(123,104,238,.5);
@@ -1011,8 +1011,8 @@ button:focus{
 }
 .btn-accent.disabled,.btn-accent:disabled{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#068fd2;
+    border-color:#068fd2
 }
 .btn-accent:not(:disabled):not(.disabled).active,.btn-accent:not(:disabled):not(.disabled):active,.show>.btn-accent.dropdown-toggle{
     color:#fff;
@@ -1024,28 +1024,28 @@ button:focus{
     box-shadow:0 0 0 .2rem rgba(123,104,238,.5)
 }
 .btn-outline-accent{
-    color:#7b68ee;
+    color:#068fd2;
     background-color:transparent;
     background-image:none;
-    border-color:#7b68ee
+    border-color:#068fd2
 }
 .btn-outline-accent:hover{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#068fd2;
+    border-color:#068fd2
 }
 .btn-outline-accent.focus,.btn-outline-accent:focus{
     -webkit-box-shadow:0 0 0 .2rem rgba(123,104,238,.5);
     box-shadow:0 0 0 .2rem rgba(123,104,238,.5)
 }
 .btn-outline-accent.disabled,.btn-outline-accent:disabled{
-    color:#7b68ee;
+    color:#068fd2;
     background-color:transparent
 }
 .btn-outline-accent:not(:disabled):not(.disabled).active,.btn-outline-accent:not(:disabled):not(.disabled):active,.show>.btn-outline-accent.dropdown-toggle{
     color:#fff;
-    background-color:#7b68ee;
-    border-color:#7b68ee
+    background-color:#068fd2;
+    border-color:#068fd2
 }
 .btn-outline-accent:not(:disabled):not(.disabled).active:focus,.btn-outline-accent:not(:disabled):not(.disabled):active:focus,.show>.btn-outline-accent.dropdown-toggle:focus{
     -webkit-box-shadow:0 0 0 .2rem rgba(123,104,238,.5);
@@ -1252,8 +1252,8 @@ a.btn{
     background-color:rgba(123,104,238,.9)
 }
 .bg-3-gradient{
-    background:-webkit-gradient(linear,left top,left bottom,from(#7f6def),to(#7b68ee));
-    background:linear-gradient(#7f6def,#7b68ee)
+    background:-webkit-gradient(linear,left top,left bottom,from(#7f6def),to(#068fd2));
+    background:linear-gradient(#7f6def,#068fd2)
 }
 .bg-3-gradient-start{
     background:#7f6def
@@ -1432,7 +1432,7 @@ a.btn{
     background:#646f79
 }
 .arrow.bg-3{
-    background:#7b68ee
+    background:#068fd2
 }
 .arrow.bg-4{
     background:#028fff
@@ -1469,7 +1469,7 @@ a.btn{
     border-bottom-color:#646f79
 }
 .arrow.top.bg-3:after{
-    border-bottom-color:#7b68ee
+    border-bottom-color:#068fd2
 }
 .arrow.top.bg-4:after{
     border-bottom-color:#028fff
@@ -1490,7 +1490,7 @@ a.btn{
     border-top-color:#646f79
 }
 .arrow.bottom.bg-3:after{
-    border-top-color:#7b68ee
+    border-top-color:#068fd2
 }
 .arrow.bottom.bg-4:after{
     border-top-color:#028fff
@@ -1511,7 +1511,7 @@ a.btn{
     border-right-color:#646f79
 }
 .arrow.left.bg-3:after{
-    border-right-color:#7b68ee
+    border-right-color:#068fd2
 }
 .arrow.left.bg-4:after{
     border-right-color:#028fff
@@ -1532,7 +1532,7 @@ a.btn{
     border-left-color:#646f79
 }
 .arrow.right.bg-3:after{
-    border-left-color:#7b68ee
+    border-left-color:#068fd2
 }
 .arrow.right.bg-4:after{
     border-left-color:#028fff
@@ -1562,7 +1562,7 @@ a.btn{
     border-color:#646f79!important
 }
 .b-3{
-    border-color:#7b68ee!important
+    border-color:#068fd2!important
 }
 .b-4{
     border-color:#028fff!important
@@ -2027,114 +2027,114 @@ blockquote:before{
     background-color:rgba(123,104,238,.5)
 }
 .overlay.overlay-3.gradient:after{
-    background:linear-gradient(-48deg,#7b68ee 10%,rgba(123,104,238,.6) 100%)
+    background:linear-gradient(-48deg,#068fd2 10%,rgba(123,104,238,.6) 100%)
 }
 .overlay.overlay-3.gradient.to-left:after{
-    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.6)));
-    background:linear-gradient(to left,#7b68ee 50%,rgba(123,104,238,.6))
+    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#068fd2),to(rgba(123,104,238,.6)));
+    background:linear-gradient(to left,#068fd2 50%,rgba(123,104,238,.6))
 }
 .overlay.overlay-3.gradient.to-right:after{
-    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.6)));
-    background:linear-gradient(to right,#7b68ee 50%,rgba(123,104,238,.6))
+    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#068fd2),to(rgba(123,104,238,.6)));
+    background:linear-gradient(to right,#068fd2 50%,rgba(123,104,238,.6))
 }
 .overlay.overlay-3.alpha-1:after{
     background-color:rgba(123,104,238,.1)
 }
 .overlay.overlay-3.alpha-1.gradient.to-left:after{
-    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.1)));
-    background:linear-gradient(to left,#7b68ee 50%,rgba(123,104,238,.1))
+    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#068fd2),to(rgba(123,104,238,.1)));
+    background:linear-gradient(to left,#068fd2 50%,rgba(123,104,238,.1))
 }
 .overlay.overlay-3.alpha-1.gradient.to-right:after{
-    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.1)));
-    background:linear-gradient(to right,#7b68ee 50%,rgba(123,104,238,.1))
+    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#068fd2),to(rgba(123,104,238,.1)));
+    background:linear-gradient(to right,#068fd2 50%,rgba(123,104,238,.1))
 }
 .overlay.overlay-3.alpha-2:after{
     background-color:rgba(123,104,238,.2)
 }
 .overlay.overlay-3.alpha-2.gradient.to-left:after{
-    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.2)));
-    background:linear-gradient(to left,#7b68ee 50%,rgba(123,104,238,.2))
+    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#068fd2),to(rgba(123,104,238,.2)));
+    background:linear-gradient(to left,#068fd2 50%,rgba(123,104,238,.2))
 }
 .overlay.overlay-3.alpha-2.gradient.to-right:after{
-    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.2)));
-    background:linear-gradient(to right,#7b68ee 50%,rgba(123,104,238,.2))
+    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#068fd2),to(rgba(123,104,238,.2)));
+    background:linear-gradient(to right,#068fd2 50%,rgba(123,104,238,.2))
 }
 .overlay.overlay-3.alpha-3:after{
     background-color:rgba(123,104,238,.3)
 }
 .overlay.overlay-3.alpha-3.gradient.to-left:after{
-    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.3)));
-    background:linear-gradient(to left,#7b68ee 50%,rgba(123,104,238,.3))
+    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#068fd2),to(rgba(123,104,238,.3)));
+    background:linear-gradient(to left,#068fd2 50%,rgba(123,104,238,.3))
 }
 .overlay.overlay-3.alpha-3.gradient.to-right:after{
-    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.3)));
-    background:linear-gradient(to right,#7b68ee 50%,rgba(123,104,238,.3))
+    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#068fd2),to(rgba(123,104,238,.3)));
+    background:linear-gradient(to right,#068fd2 50%,rgba(123,104,238,.3))
 }
 .overlay.overlay-3.alpha-4:after{
     background-color:rgba(123,104,238,.4)
 }
 .overlay.overlay-3.alpha-4.gradient.to-left:after{
-    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.4)));
-    background:linear-gradient(to left,#7b68ee 50%,rgba(123,104,238,.4))
+    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#068fd2),to(rgba(123,104,238,.4)));
+    background:linear-gradient(to left,#068fd2 50%,rgba(123,104,238,.4))
 }
 .overlay.overlay-3.alpha-4.gradient.to-right:after{
-    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.4)));
-    background:linear-gradient(to right,#7b68ee 50%,rgba(123,104,238,.4))
+    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#068fd2),to(rgba(123,104,238,.4)));
+    background:linear-gradient(to right,#068fd2 50%,rgba(123,104,238,.4))
 }
 .overlay.overlay-3.alpha-5:after{
     background-color:rgba(123,104,238,.5)
 }
 .overlay.overlay-3.alpha-5.gradient.to-left:after{
-    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.5)));
-    background:linear-gradient(to left,#7b68ee 50%,rgba(123,104,238,.5))
+    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#068fd2),to(rgba(123,104,238,.5)));
+    background:linear-gradient(to left,#068fd2 50%,rgba(123,104,238,.5))
 }
 .overlay.overlay-3.alpha-5.gradient.to-right:after{
-    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.5)));
-    background:linear-gradient(to right,#7b68ee 50%,rgba(123,104,238,.5))
+    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#068fd2),to(rgba(123,104,238,.5)));
+    background:linear-gradient(to right,#068fd2 50%,rgba(123,104,238,.5))
 }
 .overlay.overlay-3.alpha-6:after{
     background-color:rgba(123,104,238,.6)
 }
 .overlay.overlay-3.alpha-6.gradient.to-left:after{
-    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.6)));
-    background:linear-gradient(to left,#7b68ee 50%,rgba(123,104,238,.6))
+    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#068fd2),to(rgba(123,104,238,.6)));
+    background:linear-gradient(to left,#068fd2 50%,rgba(123,104,238,.6))
 }
 .overlay.overlay-3.alpha-6.gradient.to-right:after{
-    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.6)));
-    background:linear-gradient(to right,#7b68ee 50%,rgba(123,104,238,.6))
+    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#068fd2),to(rgba(123,104,238,.6)));
+    background:linear-gradient(to right,#068fd2 50%,rgba(123,104,238,.6))
 }
 .overlay.overlay-3.alpha-7:after{
     background-color:rgba(123,104,238,.7)
 }
 .overlay.overlay-3.alpha-7.gradient.to-left:after{
-    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.7)));
-    background:linear-gradient(to left,#7b68ee 50%,rgba(123,104,238,.7))
+    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#068fd2),to(rgba(123,104,238,.7)));
+    background:linear-gradient(to left,#068fd2 50%,rgba(123,104,238,.7))
 }
 .overlay.overlay-3.alpha-7.gradient.to-right:after{
-    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.7)));
-    background:linear-gradient(to right,#7b68ee 50%,rgba(123,104,238,.7))
+    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#068fd2),to(rgba(123,104,238,.7)));
+    background:linear-gradient(to right,#068fd2 50%,rgba(123,104,238,.7))
 }
 .overlay.overlay-3.alpha-8:after{
     background-color:rgba(123,104,238,.8)
 }
 .overlay.overlay-3.alpha-8.gradient.to-left:after{
-    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.8)));
-    background:linear-gradient(to left,#7b68ee 50%,rgba(123,104,238,.8))
+    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#068fd2),to(rgba(123,104,238,.8)));
+    background:linear-gradient(to left,#068fd2 50%,rgba(123,104,238,.8))
 }
 .overlay.overlay-3.alpha-8.gradient.to-right:after{
-    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.8)));
-    background:linear-gradient(to right,#7b68ee 50%,rgba(123,104,238,.8))
+    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#068fd2),to(rgba(123,104,238,.8)));
+    background:linear-gradient(to right,#068fd2 50%,rgba(123,104,238,.8))
 }
 .overlay.overlay-3.alpha-9:after{
     background-color:rgba(123,104,238,.9)
 }
 .overlay.overlay-3.alpha-9.gradient.to-left:after{
-    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.9)));
-    background:linear-gradient(to left,#7b68ee 50%,rgba(123,104,238,.9))
+    background:-webkit-gradient(linear,right top,left top,color-stop(50%,#068fd2),to(rgba(123,104,238,.9)));
+    background:linear-gradient(to left,#068fd2 50%,rgba(123,104,238,.9))
 }
 .overlay.overlay-3.alpha-9.gradient.to-right:after{
-    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#7b68ee),to(rgba(123,104,238,.9)));
-    background:linear-gradient(to right,#7b68ee 50%,rgba(123,104,238,.9))
+    background:-webkit-gradient(linear,left top,right top,color-stop(50%,#068fd2),to(rgba(123,104,238,.9)));
+    background:linear-gradient(to right,#068fd2 50%,rgba(123,104,238,.9))
 }
 .overlay.overlay-4:after{
     background-color:rgba(2,143,255,.5)
@@ -3613,7 +3613,7 @@ blockquote:before{
     font-weight:900!important
 }
 .accent{
-    color:#7b68ee
+    color:#068fd2
 }
 .color-1{
     color:#fff
@@ -3676,7 +3676,7 @@ blockquote:before{
     color:rgba(100,111,121,.9)
 }
 .color-3{
-    color:#7b68ee
+    color:#068fd2
 }
 .color-3.alpha-1{
     color:rgba(123,104,238,.1)
@@ -4001,7 +4001,7 @@ blockquote:before{
 }
 .icon-3,.icon-accent{
     color:#fff;
-    background-color:#7b68ee;
+    background-color:#068fd2;
     border-color:#6751eb
 }
 .icon-3:hover,.icon-accent:hover{
@@ -4228,7 +4228,7 @@ img.icon{
     background-color:#646f79
 }
 .header .big-circle.bg-3:after{
-    background-color:#7b68ee
+    background-color:#068fd2
 }
 .header .big-circle.bg-4:after{
     background-color:#028fff
